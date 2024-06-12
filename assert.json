@@ -1,7 +1,7 @@
 {
   "BASEURL" : "https://staging.j6dr23n.xyz/api/v1/",
 
-  "DESCKEY" = "Gz8EunEFsSTMNjAzG7usKvrRxSYjKSftXutyR/DuuMM=",
+  "DESCKEY" : "Gz8EunEFsSTMNjAzG7usKvrRxSYjKSftXutyR/DuuMM=",
   
-  "ONESIGNAL_ID" = "9149e17d-ea5c-444d-a6d0-a0a78dcd9c69"
+  "ONESIGNAL_ID" : "9149e17d-ea5c-444d-a6d0-a0a78dcd9c69"
 }
