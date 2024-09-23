@@ -32,5 +32,31 @@
       "bio": "Meet Ek Yoe, a seasoned content uploader renowned for their exceptional skills and extensive experience.Ek Yoe consistently delivers top-notch uploads across various platforms. Whether it's multimedia, articles, or visuals, Ek Yoe's uploads showcase their expertise and passion for enhancing the online experience.",
       "role": "Uploader"
     }
+  ],
+  "faqs": [
+    {
+      "question": "Vip ဘယ်လိုဝင်ရမလဲ?",
+      "answer": "Admin Telegram Acc (@zeltronkylss) မှာ Vip ဝင်ချင်လိုပါလို ပြောပြီးဝင်လိုရပါတယ်"
+    },
+    {
+      "question": "Vip Systemကဘယ်လိုမျိုးလဲ?",
+      "answer": "Website မှာ Account ဖွင့်ပေးမှာဖြစ်ပြီးတော့ Login ဝင်ထားတာနက် အကုန်ဝင်ဖတ်လို ရမှာဖြစ်ပါတယ်"
+    },
+    {
+      "question": "Vip ကတစ်သက်စာ ဘာလိုမရောင်းတာလဲ?",
+      "answer": "တစ်သက်စာက Giftaway ဖောက်ရင်သာ ပေးတာဖြစ်ပြီး စျေးကြီးပေးဝယ်ရင်တောင်မရောင်းပေးတယ့် Accountတွေပါ"
+    },
+    {
+      "question": "Free ဆိုပြီးဘာလို Vip လုပ်ထားရတာလဲ?",
+      "answer": "Free ဆိုတာ Link မကျော်ရပဲနက် Direct ဖတ်လိုရအောင်လုပ်ထားပေးတာမလိုပါခင်ဗျာ Vip လုပ်ထားရတာကတော့ Translator fee တွေ Uploader fee တွေရှိလိုပါ"
+    },
+    {
+      "question": "တစ်နေ့ဘယ်နှပိုင်း Freeတင်ပေးပါသလဲ?",
+      "answer": "တစ်နေ့ကို လေးပိုင်း (4) Free တင်ပေးပါတယ်"
+    },
+    {
+      "question": "Nexus Website မှာ Update တွေပေးမှာလား?",
+      "answer": "Incomeရရင်ရသလို Update တွေလုပ်ပေးနေပါတယ်။ Feature အသစ်တွေကို ရလာတယ့် ဝင်ငွေနက်ချိန်ပီးတော့ ထပ်ထည့်ပေးသွားပါမယ်ဗျ။"
+    }
   ]
 }
